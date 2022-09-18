@@ -7,12 +7,18 @@ and people can buy it's album and liten to it's.
 
    
 # Application Logo
-![logo2](https://user-images.githubusercontent.com/83242410/179398720-601c3ddf-a5ee-4183-8210-948515c92b9d.jpg)
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/images/logo2.jpg" height="150px" width="150px" >
 
 
 # Screenshoot
-![Screenshot_1663517083](https://user-images.githubusercontent.com/83242410/190916672-cab83818-b2ac-4a9d-8bee-84da6234638e.png)
 
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(1).png" height="650px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(2).png" height="650px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(3).png" height="650px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(4).png" height="650px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(5).png" height="650px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(6).png" height="650px" width="200px" >
+ 
 
 
 # What user can do
