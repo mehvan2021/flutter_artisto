@@ -1,0 +1,84 @@
+name: flutter_artisto
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.3 <3.0.0"
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  google_fonts: ^3.0.1
+  firebase_core: ^1.20.0
+  path_provider: ^2.0.1
+  cloud_firestore:
+  firebase_auth: ^3.6.2
+  image_picker: ^0.8.5+3
+  firebase_storage: ^10.3.4
+  cupertino_icons: ^1.0.2
+  dropdown_button2: ^1.7.1
+  flutter_radio_group: ^2.1.0
+  url_launcher: ^6.1.5
+  font_awesome_flutter: ^9.2.0
+  provider: ^6.0.3
+  get: ^4.6.5
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter_local_notifications: ^9.9.1
+  firebase_messaging: ^13.0.0
+
+  file_picker: ^5.0.1
+  flutter_file_manager: ^0.2.0
+  path: ^1.8.0
+  get_storage: ^2.0.3                   
+  audioplayers: ^1.0.1
+  firebase_analytics: ^9.3.4
+  fluttertoast: ^8.0.9
+
+dev_dependencies:
+  hive_generator:
+  build_runner:
+  flutter_test:
+    sdk: flutter
+  curved_navigation_bar: ^1.0.3 #latest version
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+   - assets/
+   - assets/images/
+
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Bold.ttf
+        - asset: assets/fonts/Montserrat-Medium.ttf
+        - asset: assets/fonts/Montserrat-Regular.ttf
+  
