@@ -17,26 +17,30 @@ and people can buy it's album and liten to it's.
 
 # What user can do
 
-   1- Uuser can register account and share it's paid and free songs in application.
+   1- User can register account and share it's paid and free songs in application.
    
    2- Other User can listen to free songs and also bought songs.
    
-   3- Anyone will receive 10Art coin when register in application and use to buy songs.
+   3- Anyone will receive 10 Art coin when register in application and can use to buy songs.
       
    4- When you buy an song it's price of Artcoin will be send to publisher account.
    
    
 # Todo
 
-   1- Making Pages (Home, PublisherList, PublisherBio, BidInfo).
+   1- Making Pages (Authentication pages) then (Home, Artist List, Artist Page, Song Info page, Edit profile, Artcoin page).
    
-   2- Landing page will show all new bids shared by selected city Artists.
+   2- Landing page will show all new songs shared by Artists.
    
-   3- PublisherList page will show all other user names in list from selected city.
+   3- Artists List page will show all user names in list with their information.
    
-   4- BidsInfo page will show full Lyrics and play Melody.
+   4- Song Info page will show list of songs inside album and play it's.
    
-   5- PublisherBio page will show Artist Biography, Picture, How bids have benn shared, and how bids have been done and selled.
+   5- Make page to show user posts in list.
+   
+   6- Artcoin page will show how coins you have and you can increase.
+   
+   
    
    
    
