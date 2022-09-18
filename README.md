@@ -12,12 +12,12 @@ and people can buy it's album and liten to it's.
 
 # Screenshoot
 
-<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(1).png" height="650px" width="200px" >
-<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(2).png" height="650px" width="200px" >
-<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(3).png" height="650px" width="200px" >
-<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(4).png" height="650px" width="200px" >
-<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(5).png" height="650px" width="200px" >
-<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(6).png" height="650px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(1).png" height="530px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(2).png" height="530px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(3).png" height="530px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(4).png" height="530px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(5).png" height="530px" width="200px" >
+<img src="https://raw.githubusercontent.com/mehvan2021/flutter_artisto/main/assets/Screen%20(6).png" height="530px" width="200px" >
  
 
 
