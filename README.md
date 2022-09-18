@@ -11,7 +11,7 @@ and people can buy it's album and liten to it's.
 
 
 # Screenshoot
-![screenshot-2022-07-17_14 45 17 489](https://user-images.githubusercontent.com/83242410/179398628-d90ac29b-f308-4945-8e89-757504eba854.png)
+![Screenshot_1663517083](https://user-images.githubusercontent.com/83242410/190916672-cab83818-b2ac-4a9d-8bee-84da6234638e.png)
 
 
 
